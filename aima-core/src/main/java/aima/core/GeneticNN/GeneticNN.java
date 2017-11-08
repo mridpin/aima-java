@@ -28,7 +28,7 @@ public class GeneticNN<A> {
     protected Random random;
 
     /* CODE START ≈ 1 líneas */
-        ...
+        // test commit
     /* CODE END */
     
     
